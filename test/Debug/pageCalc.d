@@ -1,0 +1,1 @@
+pageCalc.o: ../pageCalc.c

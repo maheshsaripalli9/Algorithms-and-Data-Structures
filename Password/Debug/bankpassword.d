@@ -1,0 +1,1 @@
+bankpassword.o: ../bankpassword.cpp
