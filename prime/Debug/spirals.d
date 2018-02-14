@@ -1,0 +1,1 @@
+spirals.o: ../spirals.cpp

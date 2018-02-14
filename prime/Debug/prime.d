@@ -1,0 +1,1 @@
+prime.o: ../prime.cpp

@@ -1,0 +1,1 @@
+primespiral.o: ../primespiral.cpp

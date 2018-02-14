@@ -1,0 +1,9 @@
+978-1420946338,Einstein,Albert,Relativity: The Special and General Theory
+978-1490592152,Newton,Isaac,The Principia
+978-0553380163,Hawking,Stephen,A Brief History of Time
+978-0471744870,Horstmann,Cay,Object-Oriented Design
+978-0130460417,Mak,Ronald,Java Number Cruncher
+978-0470383285,Horstmann,Cay,Big C++
+978-0470177075,Mak,Ronald,Writing Compilers
+978-0134177304,Horstmann,Cay,Core Java Volume I--Fundamentals
+978-1490592152,Newton,Isaac,The Principia
